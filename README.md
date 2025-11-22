@@ -93,9 +93,4 @@ BMW’s global sales data shows:
 - **NumPy**
 - **Matplotlib**
 - **Seaborn**
-- *(Optional)* Plotly for interactive charts
-
----
-
-## 📂 Repository Structure
 
